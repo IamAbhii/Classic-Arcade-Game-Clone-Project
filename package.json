@@ -17,6 +17,17 @@
   },
   "homepage": "https://github.com/IamAbhii/SD130-final-project#readme",
   "dependencies": {
-    "gulp": "^4.0.2"
+    "browser-sync": "^2.26.5",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-uglify": "^3.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "gulp-babel": "^8.0.0"
   }
 }

@@ -1,7 +1,7 @@
 const level = document.querySelector('.level');
 const life = document.querySelector('.life');
 const img = document.querySelector('.image');
-
+let lifeCount = 3;
 let heartFlag = false;
 let heartSpawnFlag = false;
 let heartPosition = [ // choosing random potition for hear spawn amongs this co-ordinates
@@ -148,7 +148,7 @@ class Heart {
 
 class Player {
 
-	static lifeCount = 3;
+
 
 	constructor(x, y) {
 		this.x = x;
