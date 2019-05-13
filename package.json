@@ -1,0 +1,22 @@
+{
+  "name": "frontend-nanodegree-arcade-game-master",
+  "version": "1.0.0",
+  "description": "## Table of Contents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamAbhii/SD130-final-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IamAbhii/SD130-final-project/issues"
+  },
+  "homepage": "https://github.com/IamAbhii/SD130-final-project#readme",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
